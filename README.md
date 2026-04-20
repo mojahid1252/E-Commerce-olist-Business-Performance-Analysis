@@ -69,8 +69,8 @@ Pivot       | Window Fns   | Cohort         | Slicers
 
 ---
 
-```
 ## 🛠 Tools & Skills
+```
 | Tool       | What I Did | Key Skills Demonstrated |
 | Excel      | Merged tables, built KPI summary & pivot dashboard | VLOOKUP / INDEX-MATCH, Pivot Tables, conditional formatting, dynamic charts |
 | PostgreSQL | Wrote 22 business queries covering revenue, delivery, customers, products, Pareto Analysis (80/20 Rule), RFM scoring, | JOINs, CTEs, Window Functions (RANK, LAG, ROW_NUMBER), aggregations | 
