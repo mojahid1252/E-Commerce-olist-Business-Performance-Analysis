@@ -12,7 +12,6 @@
 [🔍 Key Findings](#-key-findings) •
 [📊 Dashboard](#-power-bi-dashboard) •
 [🛠 Tools Used](#-tools--skills) •
-[▶️ How to Reproduce](#️-how-to-reproduce) •
 [💡 Recommendations](#-business-recommendations)
 </div>
 
@@ -36,6 +35,16 @@ The analysis answers real business questions a data analyst would face:
 | What does customer retention look like? (Cohort) | Python |
 
 **Dataset:** [Olist Brazilian E-Commerce Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
+```
+olist_customers_dataset.csv
+olist_orders_dataset.csv
+olist_order_items_dataset.csv
+olist_order_payments_dataset.csv
+olist_order_reviews_dataset.csv
+olist_products_dataset.csv
+olist_sellers_dataset.csv
+product_category_name_translation.csv   ← optional
+```
 **Period Covered:** January 2017 – August 2018  
 **Scope:** Delivered orders only (for accurate revenue & delivery KPIs)
 
@@ -281,3 +290,17 @@ Notebook: [`python/Ecommerce_EDA.ipynb`](python/Ecommerce_EDA.ipynb)
 | 🟢 Low | Create seller quality tiers — reward high performers | ↑ Overall platform quality |
 
 ---
+
+📫 Connect With Me
+<div align="center">
+LinkedIn
+GitHub
+Email
+
+</div>
+<div align="center">
+⭐ If this project helped you, consider giving it a star!
+
+Built with ❤️ using real-world data | Tools: Excel · PostgreSQL · Python · Power BI
+
+</div> ```
