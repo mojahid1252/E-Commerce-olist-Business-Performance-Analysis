@@ -63,11 +63,6 @@ Pivot       | Window Fns   | Cohort         | Slicers
 
 ---
 
-
-
-
-
-
 ## 🛠 Tools & Skills
 ```
 | Tool       | What I Did | Key Skills Demonstrated |
