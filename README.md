@@ -120,7 +120,7 @@ Pivot       | Window Fns   | Cohort         | Slicers
 ![Excel KPI](excel/screenshots/excel_kpi_summary.png)
 
 ### Pivot Dashboard
-![Excel Dashboard](excel/screenshots/excel_dashboard.png)
+![Excel Dashboard](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/72d2e98f146823b7260a20587ce69631ab28d6ec/Ecommerce_Analysis%20Dashboad.png)
 
 **What was done in Excel:**
 - Merged 7+ CSV files using VLOOKUP / INDEX-MATCH
