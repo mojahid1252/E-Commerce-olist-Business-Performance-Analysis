@@ -45,6 +45,6 @@ ETC
 
 
 ## 🔄 Project Workflow
-**> Each tool independently loaded the raw dataset and performed**
-**> its own cleaning + analysis  showcasing the same business**
-**> problem solved across 4 different environments.**
+**> Each tool independently loaded the raw dataset and performed** <br>
+**> its own cleaning + analysis  showcasing the same business**<br>
+**> problem solved across 4 different environments.**<br>
