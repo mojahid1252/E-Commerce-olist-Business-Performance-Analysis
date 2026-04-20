@@ -239,3 +239,45 @@ Notebook: [`python/Ecommerce_EDA.ipynb`](python/Ecommerce_EDA.ipynb)
 ![Correlation Heatmap](python/charts/09_correlation_heatmap.png)
 
 ---
+
+## 🔍 Key Findings
+
+### 1. 📈 Revenue & Growth
+- Revenue grew consistently through 2017, peaking around **November 2017** (Black Friday effect)
+- A sharp drop occurs in **September 2018** — likely data truncation (dataset ends mid-2018)
+- **Top 3 states** (SP, RJ, MG) account for **~65%** of total revenue
+
+### 2. 🚚 Delivery Performance
+- Avg delivery time: **12 days** vs estimated **24 days** (most orders arrive early)
+- **~9% of orders** are delivered late
+- Late delivery strongly correlates with **lower review scores** (avg score drops from 4.3 → 2.5)
+
+### 3. 👥 Customer Behavior
+- **~97% of customers are one-time buyers** — major retention gap
+- Top 5% of customers by revenue contribute disproportionately to total sales
+- Purchase activity peaks on **Monday–Tuesday** and drops on weekends
+
+### 4. 🛍 Product & Seller Insights
+- **Top 3 categories**: bed_bath_table, health_beauty, sports_leisure
+- **Pareto confirmed**: ~20% of categories drive ~80% of revenue
+- Seller quality varies widely — top 10 sellers contribute significant share of revenue
+
+### 5. ⭐ Review Score Drivers
+- Delivery timeliness is the **#1 driver** of review score
+- Products with freight cost > R$50 tend to receive lower scores
+- 5-star reviews correlate strongly with early/on-time delivery
+
+---
+
+## 💡 Business Recommendations
+
+| Priority | Recommendation | Expected Impact |
+|---|---|---|
+| 🔴 High | Improve delivery speed in low-performing states (RJ, PA, AM) | ↑ Review scores, ↑ repeat purchase |
+| 🔴 High | Launch customer retention / loyalty program | ↓ One-time buyer %, ↑ LTV |
+| 🟡 Medium | Optimize freight pricing for heavy/bulky product categories | ↑ Margin, ↓ cart abandonment |
+| 🟡 Medium | Invest in Q4 marketing (Oct–Nov) — seasonality effect is strong | ↑ Peak revenue |
+| 🟢 Low | Expand geographic presence beyond SP/RJ/MG | ↑ Market diversification |
+| 🟢 Low | Create seller quality tiers — reward high performers | ↑ Overall platform quality |
+
+---
