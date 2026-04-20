@@ -103,7 +103,7 @@ Pivot       | Window Fns   | Cohort         | Slicers
 ### Page 2 — Customer & Delivery Analysis
 > Late delivery trends, delivery days by state, review score impact
 
-![Customer & Delivery](powerbi/screenshots/page2_customer_delivery.png)
+![Customer & Delivery](👥 Customer & Delivery.png)
 
 ---
 
