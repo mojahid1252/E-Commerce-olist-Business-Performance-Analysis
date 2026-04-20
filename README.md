@@ -93,23 +93,23 @@ Pivot       | Window Fns   | Cohort         | Slicers
 
 ## 📊 Power BI Dashboard
 
-### Page 1 — Executive Summary
+### Page 1 - Executive Summary
 > Revenue trend, order volume, AOV, top states, payment methods
 
 ![Executive Summary](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/67149958a9afdf909a43412d13e134ec83cb9ebc/%F0%9F%93%8A%20Executive%20Summary.png)
 
 ---
 
-### Page 2 — Customer & Delivery Analysis
+### Page 2 - Customer & Delivery Analysis
 > Late delivery trends, delivery days by state, review score impact
 
 ![Customer & Delivery](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/cf72c7ef7964c1cda26284a2e44c730f7f3ebb1b/%F0%9F%91%A5%20Customer%20%26%20Delivery.png)
 
 ---
 
-### Page 3 — Product & Seller Performance
+### Page 3 - Product & Seller Performance
 > Top categories, revenue contribution, seller performance
 
-![Product & Seller](powerbi/screenshots/page3_product_seller.png)
+![Product & Seller](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/fa535df122d8bfdd90a9652de00ec81a0d3542aa/%F0%9F%93%A6%20PRODUCT%20%26%20SELLER%20PERFORMANCE.png)
 
 ---
