@@ -45,6 +45,22 @@ ETC
 
 
 ## 🔄 Project Workflow
-**> Each tool independently loaded the raw dataset and performed** <br>
+**> Each tool independently loaded the raw dataset and performed data cleaning to demonstrate my proficiency in data cleaning across multiple tools.** <br>
 **> its own cleaning + analysis  showcasing the same business**<br>
 **> problem solved across 4 different environments.**<br>
+
+
+
+---
+
+## 🛠 Tools & Skills
+
+| Tool | What I Did | Key Skills Demonstrated |
+| **Excel** | Merged tables, built KPI summary & pivot dashboard | VLOOKUP / INDEX-MATCH, Pivot Tables, conditional formatting, dynamic charts |
+| **PostgreSQL**| Wrote 22 business queries covering revenue, delivery, customers, products | JOINs, CTEs, Window Functions (RANK, LAG, ROW_NUMBER),RFM scoring,aggregations| 
+| **Python** | Full EDA, statistical analysis, advanced segmentation & visualizations | pandas, seaborn, matplotlib, Cohort heatmap, Pareto analysis |
+| **Power BI** | Built 3-page interactive dashboard with cross-filtering | Power Query, DAX measures & KPI cards, data modeling (star schema), slicers |
+
+---
+
+
