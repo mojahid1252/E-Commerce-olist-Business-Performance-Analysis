@@ -179,3 +179,63 @@ All queries are in [`sql/ecommerce_analysis_postgres.sql`](sql/ecommerce_analysi
 ![Q10](sql/screenshots/q10_late_vs_review.png)
 
 ---
+
+
+## 🐍 Python Analysis (EDA + Advanced)
+
+Notebook: [`python/Ecommerce_EDA.ipynb`](python/Ecommerce_EDA.ipynb)
+
+### Analysis Sections
+
+**Section 1 — Data Loading & Cleaning**
+- Loaded & merged 7 datasets
+- Handled nulls, fixed dtypes, filtered delivered orders
+
+**Section 2 — Revenue & Order Trends**
+
+![Monthly Revenue](python/charts/01_monthly_revenue.png)
+
+**Section 3 — Geographic Analysis**
+
+![State Revenue](python/charts/02_state_revenue.png)
+
+**Section 4 — Delivery Performance**
+
+![Delivery Distribution](python/charts/03_delivery_distribution.png)
+
+**Section 5 — Review Score Analysis**
+
+![Review vs Delivery](python/charts/04_review_vs_delivery.png)
+
+**Section 6 — Product & Category Analysis**
+
+![Top Categories](python/charts/05_top_categories.png)
+
+**Section 7 — Pareto Analysis (80/20 Rule)**
+
+![Pareto](python/charts/06_pareto_revenue.png)
+
+> **Finding:** Top 20% of product categories contribute ~80% of total revenue — classic Pareto effect confirmed.
+
+**Section 8 — RFM Customer Segmentation**
+
+![RFM Segments](python/charts/07_rfm_segments.png)
+
+| RFM Segment | Count | Description |
+|---|---|---|
+| Champions | ~8,200 | High value, recent, frequent |
+| Loyal Customers | ~6,100 | Regular buyers |
+| At Risk | ~4,300 | Used to buy, now inactive |
+| Lost | ~3,900 | Long inactive, low value |
+
+**Section 9 — Cohort Retention Analysis**
+
+![Cohort Heatmap](python/charts/08_cohort_heatmap.png)
+
+> **Finding:** Month-1 retention is extremely low (~2-3%), indicating a strong one-time buyer problem.
+
+**Section 10 — Statistical Correlation**
+
+![Correlation Heatmap](python/charts/09_correlation_heatmap.png)
+
+---
