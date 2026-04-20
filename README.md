@@ -43,11 +43,11 @@ ETC
 
 ---
 
-
 ## 🔄 Project Workflow
-**> Each tool independently loaded the raw dataset and performed data cleaning to demonstrate my proficiency in data cleaning across multiple tools.** <br>
-**> its own cleaning + analysis  showcasing the same business**<br>
-**> problem solved across 4 different environments.**<br>
+Each tool independently loaded the **raw dataset** <br>
+And performed its **own data cleaning and analysis**, demonstrating my proficiency in data cleaning <br>
+while showcasing the **same business problem solved across four different environments.**<br>
+
 
 
 
