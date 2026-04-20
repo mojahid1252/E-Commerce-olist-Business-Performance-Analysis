@@ -297,3 +297,10 @@ LinkedIn
 GitHub
 Email
 </div>
+
+<div align="center">
+⭐ If this project helped you, consider giving it a star!
+
+Built with ❤️ using real-world data | Tools: Excel · PostgreSQL · Python · Power BI
+
+</div> ```
