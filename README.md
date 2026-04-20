@@ -21,6 +21,7 @@ This project performs a **complete business performance analysis** on Olist's
 Brazilian e-commerce marketplace, one of the most popular real-world datasets
 available publicly (Kaggle, 100 K+ rows, 9 CSV files).
 
+```
 **The analysis answers real business questions a data analyst would face:**
 **| Business Question | Tool Used |**
 | What is the overall revenue, order volume, and AOV? | Excel + SQL + Power BI |
@@ -30,3 +31,4 @@ available publicly (Kaggle, 100 K+ rows, 9 CSV files).
 | Who are our best customers? (RFM) | SQL |
 | Which products & sellers drive 80% of revenue? (Pareto) | Python+ SQL |
 | What does customer retention look like? (Cohort) | Python |
+```
