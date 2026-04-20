@@ -25,9 +25,9 @@ available publicly (Kaggle, 100 K+ rows, 9 CSV files).
 The analysis answers real business questions a data analyst would face:
 | Business Question | Tool Used |
 | What is the overall revenue, order volume, and AOV? | Excel + SQL + Power BI |
-| How does revenue trend month over month? | Excel + Python |
-| Which states & cities drive the most revenue? | SQL + Power BI |
-| How does delivery performance affect review scores? | SQL + Python |
+| How does revenue trend month over month? | Excel + SQL +Python + Power BI |
+| Which states & cities drive the most revenue? |Excel + SQL + Python + Power BI |
+| How does delivery performance affect review scores? | SQL + Python + Power BI |
 | Who are our best customers? (RFM) | SQL |
 | Which products & sellers drive 80% of revenue? (Pareto) | Python+ SQL |
 | What does customer retention look like? (Cohort) | Python |
