@@ -82,7 +82,7 @@ Pivot       | Window Fns   | Cohort         | Slicers
 | 💰 Total Revenue | **R$ 13.59 M** |
 | 📦 Total Orders | **96.48 K** |
 | 👤 Unique Customers | **96.47 K** |
-| 🧾 Avg Item Price (AIP) | **R$ 159** |
+| 🧾 Avg Item Price (AIP) | **R$ 120.65** |
 | 🚚 Avg Delivery Days | **12 days** |
 | ⚠️ Late Delivery Rate | **~9%** |
 | ⭐ Avg Review Score | **4.09 / 5** |
