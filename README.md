@@ -79,10 +79,10 @@ Pivot       | Window Fns   | Cohort         | Slicers
 
 | KPI | Value |
 |---|---|
-| 💰 Total Revenue | **R$ 15.84 M** |
-| 📦 Total Orders | **99,441** |
-| 👤 Unique Customers | **96,478** |
-| 🧾 Avg Order Value (AOV) | **R$ 159** |
+| 💰 Total Revenue | **R$ 13.59 M** |
+| 📦 Total Orders | **96.48 K** |
+| 👤 Unique Customers | **96.47 K** |
+| 🧾 Avg Item Price (AIP) | **R$ 159** |
 | 🚚 Avg Delivery Days | **12 days** |
 | ⚠️ Late Delivery Rate | **~9%** |
 | ⭐ Avg Review Score | **4.09 / 5** |
