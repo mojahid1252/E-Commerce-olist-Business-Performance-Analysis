@@ -62,6 +62,13 @@ Pivot       | Window Fns   | Cohort         | Slicers
 ---
 
 ## 🛠 Tools & Skills
+
+| Tool | What I Did | Key Skills Demonstrated |
+|---|---|---|
+| **📊 Excel** | Merged tables, built KPI summary & pivot dashboard | VLOOKUP / INDEX-MATCH, Pivot Tables, Conditional Formatting, Dynamic Charts |
+| **🗄 PostgreSQL** | Wrote 22 business queries covering revenue, delivery, customers, products, Pareto Analysis (80/20 Rule), RFM Scoring | JOINs, CTEs, Window Functions (RANK, LAG, ROW_NUMBER), Aggregations |
+| **🐍 Python** | Full EDA, statistical analysis, advanced segmentation & visualizations | pandas, numpy, seaborn, matplotlib, Cohort Heatmap, Pareto Analysis |
+| **📈 Power BI** | Built 3-page interactive dashboard with cross-filtering | Power Query, DAX Measures & KPI Cards, Data Modeling (Star Schema), Slicers |
 ```
 | Tool       | What I Did | Key Skills Demonstrated |
 | Excel      | Merged tables, built KPI summary & pivot dashboard | VLOOKUP / INDEX-MATCH, Pivot Tables, conditional formatting, dynamic charts |
