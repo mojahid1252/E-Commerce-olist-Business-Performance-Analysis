@@ -291,12 +291,9 @@ Notebook: [`python/Ecommerce_EDA.ipynb`](python/Ecommerce_EDA.ipynb)
 
 ---
 
-
-📫 Connect With Me
 📫 Connect With Me
 <div align="center">
 LinkedIn
 GitHub
 Email
-  
 </div>
