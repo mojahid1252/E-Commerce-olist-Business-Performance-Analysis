@@ -130,3 +130,52 @@ Pivot       | Window Fns   | Cohort         | Slicers
 - Created pivot-based dashboard with slicers
 
 ---
+
+
+
+
+---
+
+## 🗄 SQL Analysis (PostgreSQL — 22 Queries)
+
+All queries are in [`sql/ecommerce_analysis_postgres.sql`](sql/ecommerce_analysis_postgres.sql)
+
+### Query Coverage Map
+
+| # | Query | Category |
+|---|---|---|
+| Q1 | Overall metrics (revenue, orders, customers, AOV) | 📊 Overview |
+| Q2 | Monthly revenue trend | 📊 Overview |
+| Q3 | Revenue by payment type | 📊 Overview |
+| Q4 | Revenue & orders by state | 🗺 Geographic |
+| Q5 | Top 10 revenue cities | 🗺 Geographic |
+| Q6 | Average delivery days by state | 🚚 Delivery |
+| Q7 | Estimated vs actual delivery accuracy | 🚚 Delivery |
+| Q8 | On-time vs late delivery count | 🚚 Delivery |
+| Q9 | Monthly late delivery trend | 🚚 Delivery |
+| Q10 | Late delivery vs review score | 🚚 Delivery |
+| Q11 | Repeat vs one-time customers | 👥 Customer |
+| Q12 | Top 10 customers by revenue | 👥 Customer |
+| Q13 | Customer purchase frequency distribution | 👥 Customer |
+| Q14 | Top 10 revenue-generating product categories | 🛍 Product |
+| Q15 | Top 10 best-selling products | 🛍 Product |
+| Q16 | Average product price by category | 🛍 Product |
+| Q17 | Top 10 sellers by revenue | 🏪 Seller |
+| Q18 | Seller performance (orders, revenue, avg score) | 🏪 Seller |
+| Q19 | Review score distribution | ⭐ Review |
+| Q20 | RFM base query (Recency, Frequency, Monetary) | 🎯 Advanced |
+| Q21 | Revenue by weekday (order patterns) | 📅 Temporal |
+| Q22 | Peak order hours analysis | 📅 Temporal |
+
+### Sample Query Screenshots
+
+**Q1 — Overall Business Metrics**
+![Q1](sql/screenshots/q01_overall_metrics.png)
+
+**Q9 — Monthly Late Delivery Trend**
+![Q9](sql/screenshots/q09_late_delivery_trend.png)
+
+**Q10 — Late Delivery Impact on Review Score**
+![Q10](sql/screenshots/q10_late_vs_review.png)
+
+---
