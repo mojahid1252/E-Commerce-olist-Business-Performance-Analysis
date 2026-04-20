@@ -45,32 +45,6 @@ ETC
 
 
 ## 🔄 Project Workflow
-Raw CSV Files (Kaggle)
-│
-▼
-┌─────────────────────────────┐
-│ STEP 1 — Excel │
-│ Data cleaning, merging, │
-│ KPI summary, Pivot dashboard│
-└────────────┬────────────────┘
-│
-▼
-┌─────────────────────────────┐
-│ STEP 2 — PostgreSQL │
-│ 22 structured business │
-│ queries (CTEs, Window fns) │
-└────────────┬────────────────┘
-│
-▼
-┌─────────────────────────────┐
-│ STEP 3 — Python │
-│ Deep EDA, RFM segmentation, │
-│ Cohort analysis, Pareto │
-└────────────┬────────────────┘
-│
-▼
-┌─────────────────────────────┐
-│ STEP 4 — Power BI │
-│ 3-page interactive dashboard│
-│ with slicers & DAX measures │
-└─────────────────────────────┘
+> Each tool independently loaded the raw dataset and performed
+> its own cleaning + analysis  showcasing the same business
+> problem solved across 4 different environments.
