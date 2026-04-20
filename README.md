@@ -16,12 +16,13 @@
 [💡 Recommendations](#-business-recommendations)
 </div>
 
+---
 ## 📌 Project Overview
 This project performs a **complete business performance analysis** on Olist's
 Brazilian e-commerce marketplace, one of the most popular real-world datasets
 available publicly (Kaggle, 100 K+ rows, 9 CSV files).
 
-```
+
 The analysis answers real business questions a data analyst would face:
 | Business Question | Tool Used |
 | What is the overall revenue, order volume, and AOV? | Excel + SQL + Power BI |
@@ -32,9 +33,10 @@ The analysis answers real business questions a data analyst would face:
 | Which products & sellers drive 80% of revenue? (Pareto) | Python+ SQL |
 | What does customer retention look like? (Cohort) | Python |
 ETC
-```
+
 
 **Dataset:** [Olist Brazilian E-Commerce — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
 **Period Covered:** January 2017 – August 2018  
 **Scope:** Delivered orders only (for accurate revenue & delivery KPIs)
+---
 
