@@ -17,11 +17,12 @@
 </div>
 
 ---
+
 ## 📌 Project Overview
 This project performs a **complete business performance analysis** on Olist's
 Brazilian e-commerce marketplace, one of the most popular real-world datasets
 available publicly (Kaggle, 100 K+ rows, 9 CSV files).
----
+
 
 ```
 The analysis answers real business questions a data analyst would face:
