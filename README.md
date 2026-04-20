@@ -1,6 +1,6 @@
 <div align="center">
   
-## Olist Brazilian E-Commerce  2017 – 2018 
+## Olist Brazilian E-Commerce | 2017 – 2018
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-217346?logo=microsoft-excel&logoColor=white)
@@ -33,3 +33,8 @@ The analysis answers real business questions a data analyst would face:
 | What does customer retention look like? (Cohort) | Python |
 ETC
 ```
+
+**Dataset:** [Olist Brazilian E-Commerce — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
+**Period Covered:** January 2017 – August 2018  
+**Scope:** Delivered orders only (for accurate revenue & delivery KPIs)
+
