@@ -290,7 +290,7 @@ Notebook: [`python/Ecommerce_EDA.ipynb`](python/Ecommerce_EDA.ipynb)
 | 🟢 Low | Create seller quality tiers — reward high performers | ↑ Overall platform quality |
 
 ---
-
+```
 📫 Connect With Me
 <div align="center">
 LinkedIn
