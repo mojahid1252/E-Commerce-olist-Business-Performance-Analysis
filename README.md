@@ -34,7 +34,7 @@ The analysis answers real business questions a data analyst would face:
 | What does customer retention look like? (Cohort) | Python |
 ETC 
 ```
-**Dataset:** [Olist Brazilian E-Commerce,Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
+**Dataset:** [Olist Brazilian E-Commerce Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
 **Period Covered:** January 2017 – August 2018  
 **Scope:** Delivered orders only (for accurate revenue & delivery KPIs)
 
