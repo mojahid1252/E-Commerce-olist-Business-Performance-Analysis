@@ -41,7 +41,7 @@ ETC
 **Period Covered:** January 2017 – August 2018  
 **Scope:** Delivered orders only (for accurate revenue & delivery KPIs)
 
-
+---
 
 ## 🔄 Project Workflow
 Each tool independently loaded the **raw dataset** <br>
@@ -55,17 +55,20 @@ While showcasing the **same business problem solved across four different enviro
 ------------|--------------|----------------|-------------
 Cleaning    | Cleaning     | Cleaning       | Modeling
 Merging     | 22 Queries   | Deep EDA       | DAX
-KPI Sheet   | CTEs         | RFM            | Dashboard
+KPI Sheet   | CTEs         | Charts         | Dashboard
 Pivot       | Window Fns   | Cohort         | Slicers
 
 
 📤 BUSINESS INSIGHTS
+
+---
 
 
 
 
 
 ---
+
 ```
 ## 🛠 Tools & Skills
 | Tool       | What I Did | Key Skills Demonstrated |
