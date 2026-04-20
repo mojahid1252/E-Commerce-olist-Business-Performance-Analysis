@@ -96,7 +96,7 @@ Pivot       | Window Fns   | Cohort         | Slicers
 ### Page 1 — Executive Summary
 > Revenue trend, order volume, AOV, top states, payment methods
 
-![Executive Summary](powerbi/screenshots/page1_executive.png)
+![Executive Summary](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/67149958a9afdf909a43412d13e134ec83cb9ebc/%F0%9F%93%8A%20Executive%20Summary.png)
 
 ---
 
