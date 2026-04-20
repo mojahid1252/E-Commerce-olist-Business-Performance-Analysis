@@ -34,19 +34,7 @@ The analysis answers real business questions a data analyst would face:
 | Who are our best customers? (RFM) | SQL + Python |
 | Which products & sellers drive 80% of revenue? (Pareto) | Python + SQL |
 | What does customer retention look like? (Cohort) | Python |
-```
-The analysis answers real business questions a data analyst would face:
 
-| Business Question | Tool Used |
-| What is the overall revenue, order volume, and AOV? | Excel + SQL + Power BI |
-| How does revenue trend month over month? | Excel + SQL +Python + Power BI |
-| Which states & cities drive the most revenue? |Excel + SQL + Python + Power BI |
-| How does delivery performance affect review scores? | SQL + Python + Power BI |
-| Who are our best customers? (RFM) | SQL |
-| Which products & sellers drive 80% of revenue? (Pareto) | Python+ SQL |
-| What does customer retention look like? (Cohort) | Python |
-ETC 
-```
 **Dataset:** [Olist Brazilian E-Commerce Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
 **Period Covered:** January 2017 – August 2018  
 **Scope:** Delivered orders only (for accurate revenue & delivery KPIs)
