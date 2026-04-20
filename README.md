@@ -1,4 +1,5 @@
-# Olist Brazilian E-Commerce | 2017 – 2018
+<div align="center">
+# Olist Brazilian E-Commerce | 2017 – 2018 |
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?logo=postgresql&logoColor=white)
@@ -9,3 +10,4 @@
 
 ## End-to-end analytics project on 100,000+ real e-commerce orders
 **spanning data cleaning, SQL querying, Python EDA, and interactive dashboarding.** 
+</div>
