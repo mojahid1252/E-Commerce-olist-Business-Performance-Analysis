@@ -117,14 +117,14 @@ Pivot       | Window Fns   | Cohort         | Slicers
 ## 🗂 Excel Analysis
 
 ### KPI Summary Sheet
-![Excel KPI](excel/screenshots/excel_kpi_summary.png)
+![Excel KPI](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/1aa181837b6f77e7247962550ea1bac0daf9afcc/Ecommerce_Analysis%20KPI.png)
 
 ### Pivot Dashboard
 ![Excel Dashboard](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/72d2e98f146823b7260a20587ce69631ab28d6ec/Ecommerce_Analysis%20Dashboad.png)
 
 **What was done in Excel:**
 - Merged 7+ CSV files using VLOOKUP / INDEX-MATCH
-- Removed nulls, fixed data types, filtered to delivered orders
+- Removed nulls, fixed data types, Did't filtered to delivered orders
 - Built KPI summary with calculated fields
 - Created pivot-based dashboard with slicers
 
