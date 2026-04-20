@@ -46,8 +46,20 @@ ETC
 ## 🔄 Project Workflow
 Each tool independently loaded the **raw dataset** <br>
 And performed its **own data cleaning and analysis**, demonstrating my proficiency in data cleaning <br>
-while showcasing the **same business problem solved across four different environments.**<br>
+While showcasing the **same business problem solved across four different environments.**<br>
 
+📥 RAW DATA SOURCE → Kaggle (9 CSV Files)
+─────────────────────────────────────────
+📊 Excel    | 🗄 PostgreSQL | 🐍 Python      | 📈 Power BI
+------------|--------------|----------------|-------------
+Cleaning    | Cleaning     | Cleaning       | Modeling
+Merging     | 22 Queries   | Deep EDA       | DAX
+KPI Sheet   | CTEs         | RFM            | Dashboard
+Pivot       | Window Fns   | Cohort         | Slicers
+─────────────────────────────────────────
+📤 BUSINESS INSIGHTS
+
+---
 
 
 
