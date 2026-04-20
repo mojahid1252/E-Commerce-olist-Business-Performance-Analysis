@@ -91,3 +91,25 @@ Pivot       | Window Fns   | Cohort         | Slicers
 
 ---
 
+## 📊 Power BI Dashboard
+
+### Page 1 — Executive Summary
+> Revenue trend, order volume, AOV, top states, payment methods
+
+![Executive Summary](powerbi/screenshots/page1_executive.png)
+
+---
+
+### Page 2 — Customer & Delivery Analysis
+> Late delivery trends, delivery days by state, review score impact
+
+![Customer & Delivery](powerbi/screenshots/page2_customer_delivery.png)
+
+---
+
+### Page 3 — Product & Seller Performance
+> Top categories, revenue contribution, seller performance
+
+![Product & Seller](powerbi/screenshots/page3_product_seller.png)
+
+---
