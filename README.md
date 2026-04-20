@@ -31,7 +31,7 @@ The analysis answers real business questions a data analyst would face:
 | How does revenue trend month over month? | Excel + SQL + Python + Power BI |
 | Which states & cities drive the most revenue? | Excel + SQL + Python + Power BI |
 | How does delivery performance affect review scores? | SQL + Python + Power BI |
-| Who are our best customers? (RFM) | SQL + Python |
+| Who are our best customers? (RFM) | SQL |
 | Which products & sellers drive 80% of revenue? (Pareto) | Python + SQL |
 | What does customer retention look like? (Cohort) | Python |
 
@@ -69,13 +69,7 @@ Pivot       | Window Fns   | Cohort         | Slicers
 | **🗄 PostgreSQL** | Wrote 22 business queries covering revenue, delivery, customers, products, Pareto Analysis (80/20 Rule), RFM Scoring | JOINs, CTEs, Window Functions (RANK, LAG, ROW_NUMBER), Aggregations |
 | **🐍 Python** | Full EDA, statistical analysis, advanced segmentation & visualizations | pandas, numpy, seaborn, matplotlib, Cohort Heatmap, Pareto Analysis |
 | **📈 Power BI** | Built 3-page interactive dashboard with cross-filtering | Power Query, DAX Measures & KPI Cards, Data Modeling (Star Schema), Slicers |
-```
-| Tool       | What I Did | Key Skills Demonstrated |
-| Excel      | Merged tables, built KPI summary & pivot dashboard | VLOOKUP / INDEX-MATCH, Pivot Tables, conditional formatting, dynamic charts |
-| PostgreSQL | Wrote 22 business queries covering revenue, delivery, customers, products, Pareto Analysis (80/20 Rule), RFM scoring, | JOINs, CTEs, Window Functions (RANK, LAG, ROW_NUMBER), aggregations | 
-| Python     | Full EDA, statistical analysis, advanced segmentation & visualizations | pandas, numpy, seaborn, matplotlib, Cohort heatmap, Pareto analysis |
-| Power BI   | Built 3-page interactive dashboard with cross-filtering | Power Query, DAX measures & KPI cards, data modeling (star schema), slicers |
-```
+
 ---
 
 ## 📈 KPI Snapshot
