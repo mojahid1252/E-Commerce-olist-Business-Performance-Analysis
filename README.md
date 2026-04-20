@@ -17,7 +17,6 @@
 </div>
 
 ---
-
 ## 📌 Project Overview
 This project performs a **complete business performance analysis** on Olist's
 Brazilian e-commerce marketplace, one of the most popular real-world datasets
@@ -40,5 +39,4 @@ ETC
 **Dataset:** [Olist Brazilian E-Commerce Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
 **Period Covered:** January 2017 – August 2018  
 **Scope:** Delivered orders only (for accurate revenue & delivery KPIs)
-
 ---
