@@ -7,5 +7,5 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-**End-to-end analytics project on 100,000+ real e-commerce orders**  
-spanning data cleaning, SQL querying, Python EDA, and interactive dashboarding.
+**End-to-end analytics project on 100,000+ real e-commerce orders 
+spanning data cleaning, SQL querying, Python EDA, and interactive dashboarding.** 
