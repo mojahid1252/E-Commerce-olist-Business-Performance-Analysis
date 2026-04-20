@@ -1,6 +1,6 @@
 <div align="center">
   
-## Olist Brazilian E-Commerce - 2017 – 2018 
+## Olist Brazilian E-Commerce  2017 – 2018 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-217346?logo=microsoft-excel&logoColor=white)
