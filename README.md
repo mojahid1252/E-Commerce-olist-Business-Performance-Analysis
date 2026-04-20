@@ -9,11 +9,11 @@
 ## End-to-end analytics project on 100,000+ real e-commerce orders
 **spanning data cleaning, SQL querying, Python EDA, and interactive dashboarding.** 
 
-**[🔍 Key Findings](#-key-findings) •
+[🔍 Key Findings](#-key-findings) •
 [📊 Dashboard](#-power-bi-dashboard) •
 [🛠 Tools Used](#-tools--skills) •
 [▶️ How to Reproduce](#️-how-to-reproduce) •
-[💡 Recommendations](#-business-recommendations)**
+[💡 Recommendations](#-business-recommendations)
 </div>
 
 
