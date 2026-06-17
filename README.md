@@ -296,12 +296,39 @@ Notebook: [`python/Ecommerce_EDA.ipynb`](https://github.com/mojahid1252/E-Commer
 
 ---
 
-📫 Connect With Me
-<div align="center">
-LinkedIn
-GitHub
-Email
-</div>
+---
+
+## 👨‍💻 About The Analyst
+
+**[Your Name]**
+Data Analyst | Financial Analytics & BI Specialist
+
+I build end-to-end analytics solutions that turn raw operational data into executive-grade dashboards - SQL data warehousing, Power BI semantic modeling, DAX measures, and the business storytelling that ties it all together.
+
+- 📧 **Email:** [mojahidulislam101010@gmail.com]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/mozahidul-islam-453662380/]
+- 🌐 **Portfolio:** 
+- 📊 **Fiverr / Upwork:** 
+
+---
+
+
+---
+
+## 🤝 Let's Work Together
+
+Are you a financial services business looking to:
+
+→ **Democratize data access** across product, risk, and marketing teams?
+→ **Identify revenue concentration risks** before they become problems?
+→ **Segment customers** for targeted acquisition and retention?
+→ **Make data-driven decisions** instead of gut-driven ones?
+
+**I can help. Let's talk.**
+
+[📩 Contact Me](mailto:mojahidulislam101010@gmail.com) · [📅 Book a Call](https://calendly.com/my-link)
+
+---
 
 
 <div align="center">
