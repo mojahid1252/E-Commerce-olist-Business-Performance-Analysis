@@ -292,7 +292,7 @@ Notebook: [`python/Ecommerce_EDA.ipynb`](https://github.com/mojahid1252/E-Commer
 | 🟡 Medium | Optimize freight pricing for heavy/bulky product categories | ↑ Margin, ↓ cart abandonment |
 | 🟡 Medium | Invest in Q4 marketing (Oct–Nov) - seasonality effect is strong | ↑ Peak revenue |
 | 🟢 Low | Expand geographic presence beyond SP/RJ/MG | ↑ Market diversification |
-| 🟢 Low | Create seller quality tiers — reward high performers | ↑ Overall platform quality |
+| 🟢 Low | Create seller quality tiers - reward high performers | ↑ Overall platform quality |
 
 ---
 
