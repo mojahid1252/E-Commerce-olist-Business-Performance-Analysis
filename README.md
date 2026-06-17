@@ -179,15 +179,16 @@ All queries are in [`sql/ecommerce_analysis_postgres.sql`](sql/ecommerce_analysi
 ### Sample Query Screenshots
 
 **Q1 — Overall Business Metrics**
-![Q1](sql/screenshots/q01_overall_metrics.png)
+![Q1](sql/screenshots/q01_overa)
 
 **Q9 — Monthly Late Delivery Trend**
 ![Q9](sql/screenshots/q09_late_delivery_trend.png)
 
 **Q10 — Late Delivery Impact on Review Score**
-![Q10](sql/screenshots/q10_late_vs_review.png)
+![Q10](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/e5e9b0909748861f0f205e4ca388ea2baa30f0a8/Code_HnYdKuLNZt.png)
 
 ---
+
 
 
 ## 🐍 Python Analysis (EDA + Advanced)
