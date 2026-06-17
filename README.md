@@ -199,39 +199,39 @@ Notebook: [`python/Ecommerce_EDA.ipynb`](https://github.com/mojahid1252/E-Commer
 
 ### Analysis Sections
 
-**Section 1 — Data Loading & Cleaning**
+**Section 1: Data Loading & Cleaning**
 - Loaded & merged 7 datasets
 - Handled nulls, fixed dtypes, filtered delivered orders
 
-**Section 2 — Revenue & Order Trends & Performance-Analysis**
+**Section 2: Revenue & Order Trends & Performance-Analysis**
 ![E-Commerce-Business-Performance-Analysis](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/0f0a4bdd42b54a0a91983e45547b5e533d248d58/Key%20Metrics%20Summary.png)
 
 ![Monthly Revenue](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/78fdbc88bd7672204fbee07f12d2816dd2c507d2/monthly%20revenue.png)
 
-**Section 3 — Geographic Analysis**
+**Section 3: Geographic Analysis**
 
 ![State Revenue](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/78fdbc88bd7672204fbee07f12d2816dd2c507d2/State%20Revenue%20Share%20(Pie).png)
 
-**Section 4 — Delivery Performance**
+**Section 4: Delivery Performance**
 
 ![Delivery Distribution](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/0f0a4bdd42b54a0a91983e45547b5e533d248d58/Avg%20Delivery%20Days%20by%20State.png)
 
-**Section 5 — Review Score Analysis**
+**Section 5: Review Score Analysis**
 
 ![Review vs Delivery](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/0f0a4bdd42b54a0a91983e45547b5e533d248d58/Review%20Score%20Distribution.png)
 ![Review vs Delivery](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/0f0a4bdd42b54a0a91983e45547b5e533d248d58/Avg%20Review%20by%20TopBottom%20Categories.png)
 
-**Section 6 — Product & Category Analysis**
+**Section 6: Product & Category Analysis**
 
 ![Top Categories](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/0f0a4bdd42b54a0a91983e45547b5e533d248d58/Top%2015%20Categories%20by%20Revenue%20.png)
 
-**Section 7 — Pareto Analysis (80/20 Rule)**
+**Section 7: Pareto Analysis (80/20 Rule)**
 
 ![Pareto](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/0f0a4bdd42b54a0a91983e45547b5e533d248d58/Pareto%20Chart.png)
 
-> **Finding:** Top 20% of product categories contribute ~80% of total revenue — classic Pareto effect confirmed.
+> **Finding:** Top 20% of product categories contribute ~80% of total revenue - classic Pareto effect confirmed.
 
-**Section 8 — RFM Customer Segmentation**
+**Section 8: RFM Customer Segmentation**
 
 | RFM Segment | Count | Description |
 |---|---|---|
@@ -240,13 +240,13 @@ Notebook: [`python/Ecommerce_EDA.ipynb`](https://github.com/mojahid1252/E-Commer
 | At Risk | ~4,300 | Used to buy, now inactive |
 | Lost | ~3,900 | Long inactive, low value |
 
-**Section 9 — Cohort Retention Analysis**
+**Section 9: Cohort Retention Analysis**
 
 ![Cohort Heatmap](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/0f0a4bdd42b54a0a91983e45547b5e533d248d58/Cohort%20Retention%20Heatmap.png)
 
 > **Finding:** Month-1 retention is extremely low (~2-3%), indicating a strong one-time buyer problem.
 
-**Section 10 — Statistical Correlation**
+**Section 10: Statistical Correlation**
 
 ![Correlation Heatmap](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/0f0a4bdd42b54a0a91983e45547b5e533d248d58/Correlation%20Heatmap.png)
 
@@ -258,7 +258,7 @@ Notebook: [`python/Ecommerce_EDA.ipynb`](https://github.com/mojahid1252/E-Commer
 
 ### 1. 📈 Revenue & Growth
 - Revenue grew consistently through 2017, peaking around **November 2017** (Black Friday effect)
-- A sharp drop occurs in **September 2018** — likely data truncation (dataset ends mid-2018)
+- A sharp drop occurs in **September 2018**  likely data truncation (dataset ends mid-2018)
 - **Top 3 states** (SP, RJ, MG) account for **~65%** of total revenue
 
 ### 2. 🚚 Delivery Performance
@@ -267,14 +267,14 @@ Notebook: [`python/Ecommerce_EDA.ipynb`](https://github.com/mojahid1252/E-Commer
 - Late delivery strongly correlates with **lower review scores** (avg score drops from 4.3 → 2.5)
 
 ### 3. 👥 Customer Behavior
-- **~97% of customers are one-time buyers** — major retention gap
+- **~97% of customers are one-time buyers** - major retention gap
 - Top 5% of customers by revenue contribute disproportionately to total sales
 - Purchase activity peaks on **Monday–Tuesday** and drops on weekends
 
 ### 4. 🛍 Product & Seller Insights
 - **Top 3 categories**: bed_bath_table, health_beauty, sports_leisure
 - **Pareto confirmed**: ~20% of categories drive ~80% of revenue
-- Seller quality varies widely — top 10 sellers contribute significant share of revenue
+- Seller quality varies widely - top 10 sellers contribute significant share of revenue
 
 ### 5. ⭐ Review Score Drivers
 - Delivery timeliness is the **#1 driver** of review score
@@ -290,7 +290,7 @@ Notebook: [`python/Ecommerce_EDA.ipynb`](https://github.com/mojahid1252/E-Commer
 | 🔴 High | Improve delivery speed in low-performing states (RJ, PA, AM) | ↑ Review scores, ↑ repeat purchase |
 | 🔴 High | Launch customer retention / loyalty program | ↓ One-time buyer %, ↑ LTV |
 | 🟡 Medium | Optimize freight pricing for heavy/bulky product categories | ↑ Margin, ↓ cart abandonment |
-| 🟡 Medium | Invest in Q4 marketing (Oct–Nov) — seasonality effect is strong | ↑ Peak revenue |
+| 🟡 Medium | Invest in Q4 marketing (Oct–Nov) - seasonality effect is strong | ↑ Peak revenue |
 | 🟢 Low | Expand geographic presence beyond SP/RJ/MG | ↑ Market diversification |
 | 🟢 Low | Create seller quality tiers — reward high performers | ↑ Overall platform quality |
 
