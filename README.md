@@ -193,7 +193,7 @@ All queries are in [`sql/ecommerce_analysis_postgres.sql`](sql/ecommerce_analysi
 
 ## 🐍 Python Analysis (EDA + Advanced)
 
-Notebook: [`python/Ecommerce_EDA.ipynb`](python/Ecommerce_EDA.ipynb)
+Notebook: [`python/Ecommerce_EDA.ipynb`](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/e9d903453b19ec6fa8be4a74cb33848f65286ab8/Analyze.ipynb)
 
 ### Analysis Sections
 
