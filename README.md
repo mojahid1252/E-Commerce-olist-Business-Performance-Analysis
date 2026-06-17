@@ -182,7 +182,7 @@ All queries are in [`sql/ecommerce_analysis_postgres.sql`](sql/ecommerce_analysi
 ![Q1](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/8f1a7d05eb5f389d07dba487c8fcec3aca4ca3aa/Code_gDLetUIJFA.png)
 
 **Q9 — Monthly Late Delivery Trend**
-![Q9](sql/screenshots/q09_late_delivery_trend.png)
+![Q9](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/97e8bc23a5f1b54075471507d0d39f9078b5a77e/Code_p74e2XSZ8d.png)
 
 **Q10 — Late Delivery Impact on Review Score**
 ![Q10](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/e5e9b0909748861f0f205e4ca388ea2baa30f0a8/Code_HnYdKuLNZt.png)
