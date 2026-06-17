@@ -147,7 +147,9 @@ Pivot       | Window Fns   | Cohort         | Slicers
 
 ## 🗄 SQL Analysis (PostgreSQL — 22 Queries)
 
-All queries are in [`sql/ecommerce_analysis_postgres.sql`](sql/ecommerce_analysis_postgres.sql)
+Data Cleaning [`sql/ecommerce_analysis_postgres.sql`](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/c5c4824713821c095614ccc2bbfd9b886032e4f6/Data%20Cleaning.sql)
+Analyzing Data [`sql/ecommerce_analysis_postgres.sql`](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/c5c4824713821c095614ccc2bbfd9b886032e4f6/Analyzing%20Data.sql)
+
 
 ### Query Coverage Map
 
