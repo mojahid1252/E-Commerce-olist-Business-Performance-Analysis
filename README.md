@@ -203,11 +203,11 @@ Notebook: [`python/Ecommerce_EDA.ipynb`](python/Ecommerce_EDA.ipynb)
 
 **Section 2 — Revenue & Order Trends**
 
-![Monthly Revenue](python/charts/01_monthly_revenue.png)
+![Monthly Revenue](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/78fdbc88bd7672204fbee07f12d2816dd2c507d2/monthly%20revenue.png)
 
 **Section 3 — Geographic Analysis**
 
-![State Revenue](python/charts/02_state_revenue.png)
+![State Revenue](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/78fdbc88bd7672204fbee07f12d2816dd2c507d2/State%20Revenue%20Share%20(Pie).png)
 
 **Section 4 — Delivery Performance**
 
