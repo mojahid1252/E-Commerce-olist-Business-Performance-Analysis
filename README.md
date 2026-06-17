@@ -179,7 +179,7 @@ All queries are in [`sql/ecommerce_analysis_postgres.sql`](sql/ecommerce_analysi
 ### Sample Query Screenshots
 
 **Q1 — Overall Business Metrics**
-![Q1](sql/screenshots/q01_overa)
+![Q1](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/8f1a7d05eb5f389d07dba487c8fcec3aca4ca3aa/Code_gDLetUIJFA.png)
 
 **Q9 — Monthly Late Delivery Trend**
 ![Q9](sql/screenshots/q09_late_delivery_trend.png)
