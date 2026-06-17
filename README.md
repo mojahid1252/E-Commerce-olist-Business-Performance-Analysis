@@ -201,7 +201,8 @@ Notebook: [`python/Ecommerce_EDA.ipynb`](python/Ecommerce_EDA.ipynb)
 - Loaded & merged 7 datasets
 - Handled nulls, fixed dtypes, filtered delivered orders
 
-**Section 2 — Revenue & Order Trends**
+**Section 2 — Revenue & Order Trends & Performance-Analysis**
+![E-Commerce-Business-Performance-Analysis](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/0f0a4bdd42b54a0a91983e45547b5e533d248d58/Key%20Metrics%20Summary.png)
 
 ![Monthly Revenue](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/78fdbc88bd7672204fbee07f12d2816dd2c507d2/monthly%20revenue.png)
 
@@ -211,25 +212,24 @@ Notebook: [`python/Ecommerce_EDA.ipynb`](python/Ecommerce_EDA.ipynb)
 
 **Section 4 — Delivery Performance**
 
-![Delivery Distribution](python/charts/03_delivery_distribution.png)
+![Delivery Distribution](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/0f0a4bdd42b54a0a91983e45547b5e533d248d58/Avg%20Delivery%20Days%20by%20State.png)
 
 **Section 5 — Review Score Analysis**
 
-![Review vs Delivery](python/charts/04_review_vs_delivery.png)
+![Review vs Delivery](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/0f0a4bdd42b54a0a91983e45547b5e533d248d58/Review%20Score%20Distribution.png)
+![Review vs Delivery](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/0f0a4bdd42b54a0a91983e45547b5e533d248d58/Avg%20Review%20by%20TopBottom%20Categories.png)
 
 **Section 6 — Product & Category Analysis**
 
-![Top Categories](python/charts/05_top_categories.png)
+![Top Categories](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/0f0a4bdd42b54a0a91983e45547b5e533d248d58/Top%2015%20Categories%20by%20Revenue%20.png)
 
 **Section 7 — Pareto Analysis (80/20 Rule)**
 
-![Pareto](python/charts/06_pareto_revenue.png)
+![Pareto](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/0f0a4bdd42b54a0a91983e45547b5e533d248d58/Pareto%20Chart.png)
 
 > **Finding:** Top 20% of product categories contribute ~80% of total revenue — classic Pareto effect confirmed.
 
 **Section 8 — RFM Customer Segmentation**
-
-![RFM Segments](python/charts/07_rfm_segments.png)
 
 | RFM Segment | Count | Description |
 |---|---|---|
@@ -240,13 +240,15 @@ Notebook: [`python/Ecommerce_EDA.ipynb`](python/Ecommerce_EDA.ipynb)
 
 **Section 9 — Cohort Retention Analysis**
 
-![Cohort Heatmap](python/charts/08_cohort_heatmap.png)
+![Cohort Heatmap](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/0f0a4bdd42b54a0a91983e45547b5e533d248d58/Cohort%20Retention%20Heatmap.png)
 
 > **Finding:** Month-1 retention is extremely low (~2-3%), indicating a strong one-time buyer problem.
 
 **Section 10 — Statistical Correlation**
 
-![Correlation Heatmap](python/charts/09_correlation_heatmap.png)
+![Correlation Heatmap](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/0f0a4bdd42b54a0a91983e45547b5e533d248d58/Correlation%20Heatmap.png)
+
+
 
 ---
 
