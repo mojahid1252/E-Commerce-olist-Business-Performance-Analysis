@@ -318,8 +318,10 @@ I build end-to-end analytics solutions that turn raw operational data into execu
 ## 🤝 Let's Work Together
 
 
-"Are you an e-commerce business looking to identify conversion leaks, optimize product placement, and increase revenue without spending more on ads?"
-
+"Are you an e-commerce business looking to:
+→ Identify why 97% of customers never buy again?
+→ Optimize delivery and operational costs?
+→ Find the top 20% of products driving 80% of revenue?"
 
 
 → **Democratize data access** across product, risk, and marketing teams?
