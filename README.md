@@ -300,8 +300,8 @@ Notebook: [`python/Ecommerce_EDA.ipynb`](https://github.com/mojahid1252/E-Commer
 
 ## 👨‍💻 About The Analyst
 
-**[Your Name]**
-Data Analyst | Financial Analytics & BI Specialist
+**[Mozahidul Islam]**
+E-Commerce Data Analyst | SQL · Python · Power BI Specialist
 
 I build end-to-end analytics solutions that turn raw operational data into executive-grade dashboards - SQL data warehousing, Power BI semantic modeling, DAX measures, and the business storytelling that ties it all together.
 
