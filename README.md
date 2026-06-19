@@ -124,7 +124,7 @@ Pivot       | Window Fns   | Cohort         | Slicers
 ---
 
 ## 🗂 Excel Analysis 
-**Didn't filtered to delivered orders**
+**Note: Excel analysis includes all order statuses (not filtered to delivered only) to show raw operational volume."**
 
 ### KPI Summary Sheet
 ![Excel KPI](https://github.com/mojahid1252/E-Commerce-Business-Performance-Analysis/blob/bbc40975a09fb8f103df64553b39e06eaff49320/Ecommerce_Analysis%20KPI.png)
